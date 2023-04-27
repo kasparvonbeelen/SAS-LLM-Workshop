@@ -1,0 +1,9 @@
+numpy
+requests
+transformers
+datasets
+torch
+torchvision
+torchaudio
+Pandas
+matplotlib
