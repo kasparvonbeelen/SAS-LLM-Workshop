@@ -1,4 +1,4 @@
-# SAS-LLM-Worshop
+# SAS-LLM-Workshop
 
 Materials for the SAS "Poking at Ever Larger Language Models" workshop
 
