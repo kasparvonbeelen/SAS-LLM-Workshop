@@ -1,6 +1,6 @@
 # folder
 gpt-brexit/*
-
+.DS_Store
 .DSTORE
 # Byte-compiled / optimized / DLL files
 __pycache__/
